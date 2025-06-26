@@ -1,11 +1,11 @@
 const fs = require("fs");
 const chalk = require("chalk");
-global.creAtor = "yournumber@s.whatsapp.net";
-global.owner = ["yournumber"];
-global.ownerNumber = ["yournumber@s.whatsapp.net"];
-global.nomerOwner = "yournumber";
-global.namabotnya = "AbotMD";
-global.namaownernya = "Muq";
+global.creAtor = "254706519089@s.whatsapp.net";
+global.owner = ["254706519089"];
+global.ownerNumber = ["254706519089@s.whatsapp.net"];
+global.nomerOwner = "254706519089";
+global.namabotnya = "DAXON-AI";
+global.namaownernya = "LESTA";
 
 //Web Api
 global.APIs = {
@@ -20,7 +20,7 @@ global.APIKeys = {
 
 // Sticker Creator
 global.packname = "© Created By";
-global.author = "AbotMD";
+global.author = "DAXON";
 
 global.sessionName = "session";
 global.group = "";
@@ -34,7 +34,7 @@ global.nomorowner = "https://wa.me/628126915328";
 // Scrap Lib
 global.scrap = new (require("../function/lib/lib.scrap.js"))();
 
-global.region = "I`m From Indonesia";
+global.region = "I`m From Kenya🇰🇪";
 global.prefa = ["", "!", ".", "#", "-", "•"];
 global.thumb = fs.readFileSync("./function/image/thumb.jpg");
 global.krmd = {
